@@ -4,7 +4,7 @@ author: cotes
 date: 2019-08-11 00:34:00 +0800
 categories: [Blogging, Tutorial]
 tags: [favicon]
-image: https://photos.google.com/photo/AF1QipML0O825DiKycpEkm0G8LaJ5nj93zxPkGL32wSo
+image: https://miro.medium.com/v2/resize:fit:640/format:webp/1*JaHIjXr6SQP2iJMuhhqycw.png
 ---
 
 The [favicons](https://www.favicon-generator.org/about/) of [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/) are placed in the directory `assets/img/favicons/`{: .filepath}. You may want to replace them with your own. The following sections will guide you to create and replace the default favicons.

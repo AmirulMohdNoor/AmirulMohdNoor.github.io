@@ -13,6 +13,7 @@ Hello! I'm **Amirul**, hailing from the vibrant country of Malaysia. I graduated
 ### INVOLMENT AND ACTIVITIES
 
 - Aturkreatif'24 CTF (May 2024) `Challenges Creator`
+- RAWSEC (2024) `Committee`
 - RAWSEC RENTAS CTF 2024 (Mac 2024) `Participant`
 - WARGAMES.MY CTF 2023 (December 2024) `Participant`
 - ITREXC 2023 - CYBER SECURITY CHALLENGE (November 2023) `Participant`

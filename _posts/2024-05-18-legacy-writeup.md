@@ -69,6 +69,10 @@ Next, set your LHOST and RHOST and finally then `exploit`.
 
 After we got meterpreter, enter `shell`.
 
+
+
+## PRIVELEGE ESCALATION
+
 We can find a user flag at C:\Documents and Settings\john\Desktop>.
 
 ![Logo](https://miro.medium.com/v2/resize:fit:640/format:webp/1*ZDrLd2cePHpgLSJh9GdURQ.png)

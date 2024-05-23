@@ -33,6 +33,10 @@ Hello! I'm **Amirul**, hailing from the vibrant country of Malaysia. I graduated
 ![Logo](https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)
 
 
+Dont forget to follow youtube channel:
+[**YoutubeChannel**](https://www.youtube.com/watch?v=YS_9JGYo5gQ)
+
+
 
 ---
 

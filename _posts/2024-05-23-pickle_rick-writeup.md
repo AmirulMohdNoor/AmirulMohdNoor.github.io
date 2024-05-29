@@ -17,3 +17,19 @@ Find hidden directories using Dirsearch (a command-line tool designed to brute f
 python3 dirsearch.py -u http://10.10.51.149/
 ```
 ![Logo](https://miro.medium.com/v2/resize:fit:720/format:webp/1*PXO4ZwHeYOdB4XcEWUbjYw.png)
+
+We get the following files and directories.
+
+- /assets/
+- /login.php
+- /robots.txt
+
+### Login Page
+Find username and password for login page 
+
+![Logo](https://miro.medium.com/v2/resize:fit:720/format:webp/1*veZEuo2xxduSE8uHnenxJA.png)
+
+Let’s go to find something hidden in source code first.
+
+![Logo](https://miro.medium.com/v2/resize:fit:720/format:webp/1*veZEuo2xxduSE8uHnenxJA.png)
+

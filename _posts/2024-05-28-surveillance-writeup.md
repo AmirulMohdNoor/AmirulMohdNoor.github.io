@@ -1,6 +1,6 @@
 ---
 title: Exploitation of Craft CMS Vulnerabilities (CVE-2023-41892)
-description: HackTheBox - Legacy Writeup
+description: HackTheBox - Surveillance Writeup
 date: 2024-05-28 00:34:00 +0800
 categories: [Writeup, hackthebox]
 tags: [Craft CMS]

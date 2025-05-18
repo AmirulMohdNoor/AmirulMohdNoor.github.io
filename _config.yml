@@ -16,7 +16,7 @@ timezone:
 
 title: M1rocle # the main title
 
-tagline: Security Analyst | VAPT | Malware Development | Offensive Security # it will display as the sub-title
+tagline: Security Analyst | VAPT | Malware # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Technical writing, blog, sharing

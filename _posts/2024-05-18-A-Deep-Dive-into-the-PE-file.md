@@ -2,9 +2,9 @@
 title: A Deep Dive into the PE File Format
 description: HackTheBox - Legacy Writeup
 date: 2025-05-18 00:34:00 +0800
-categories: [Writeup, hackthebox]
+categories: [Windows Internals, Malware]
 tags: [metasploit]
-image: https://github.com/AmirulMohdNoor/AmirulMohdNoor.github.io/blob/main/images/legacy/Legacy.png?raw=true
+image: https://github.com/AmirulMohdNoor/m1rocle.my/blob/main/images/PE%20file/pefile.jpg?raw=true
 ---
 
 ## INFORMATION GHATERING

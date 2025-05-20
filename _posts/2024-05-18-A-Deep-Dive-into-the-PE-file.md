@@ -22,6 +22,8 @@ The main purpose of this post is to provide an overview of the Portable Executab
 
 ### PE Structure
 
+![Logo](https://github.com/AmirulMohdNoor/m1rocle.my/blob/main/images/PE%20file/PE%20file%20diagram.png?raw=true)
+
 First thing first, scan the IP Address by using `nmap`
 
 ```terminal
